@@ -3,7 +3,7 @@ package com.example;
 /**
  * This is a class. BOVINO
  */
-public class Greeter {
+public class Greeter { //OLAP
 
   /**
    * This is a constructor.
